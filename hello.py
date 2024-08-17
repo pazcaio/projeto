@@ -1,2 +1,5 @@
 print("Olá mundo")
-Segunda linha
+# Exemlo
+
+Variavel = 5
+Variavel = 3
